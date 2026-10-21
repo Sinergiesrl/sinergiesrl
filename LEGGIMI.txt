@@ -1,0 +1,36 @@
+SINERGIE SRL — VERSIONE EDITORIALE COORDINATA
+
+Contenuto: 12 pagine HTML, stile-sinergie.css, stile-sinergie-esistenti.css, menu.js.
+
+SCELTA PER LA HOMEPAGE
+- Manteniamo le schede sintetiche dei servizi: spiegano immediatamente l'offerta e portano alle pagine di approfondimento.
+- Rimuoviamo il blocco lungo e duplicato di contatti/mappa, sostituendolo con due collegamenti alle pagine dedicate.
+- Manteniamo il blocco richiesta consulenza nella homepage per la conversione.
+
+IMPORTANTE SUI CONTENUTI ORIGINALI
+Gli originali effettivamente forniti in questa conversazione sono: homepage, Chi Siamo e Contabilità/Paghe.
+Per Fractional Management, Budget Costo del Personale, Relazioni Industriali, Mediazione e Assistenza Legale erano disponibili soltanto i testi sintetici della versione precedente: NON è possibile garantire che riproducano i testi originali dell'azienda. Inviare i 5 HTML originali per il reintegro integrale.
+
+PRIMA DELLA PUBBLICAZIONE
+1. Inserire nella stessa cartella logo.jpg e foto.jpg (non inclusi negli allegati).
+2. Il modulo prenotazioni richiede send_booking.php: NON incluso e NON funzionante senza backend e hosting PHP.
+3. Confermare prezzi, qualifiche professionali, offerte, recapiti e riferimenti legali.
+4. Completare privacy policy, cookie policy e informazioni societarie richieste.
+5. Verificare link, mobile, accessibilità, velocità, SEO e comportamento in un browser reale.
+6. Conservare un backup prima di sostituire il sito online.
+
+Il pacchetto è una base di alta qualità grafica, non una certificazione di punteggio 10/10 o un collaudo di produzione.
+
+REVISIONE SUCCESSIVA — 21 OTTOBRE 2026
+Sono stati ricevuti quattro testi HTML distinti: Assistenza Legale, Budget Costo del Personale, Fractional Management e Relazioni Industriali (quest'ultima ripetuta due volte). Questi testi coincidono con la struttura sintetica delle pagine coordinate, non sono versioni lunghe antecedenti al restyling. Sono state mantenute le sezioni fornite, con una breve sezione editoriale aggiuntiva «Quando può essere utile» per ciascuna.
+NON è stato ricevuto un nuovo originale di Mediazione Civile e Commerciale: resta il contenuto sintetico della precedente versione.
+È stata eliminata la parola «gratuita» dal testo conclusivo di Contabilità e Paghe, perché la homepage indica tariffe per le consulenze; confermare le condizioni commerciali prima della pubblicazione.
+Le immagini logo.jpg e foto.jpg e il backend send_booking.php NON sono compresi. Il sito non è stato collaudato su hosting reale: non si dichiara un 10/10 tecnico verificato.
+
+AGGIORNAMENTO MEDIAZIONE (21/10/2026)
+La pagina mediazione-civile-commerciale.html integra le sezioni e gli ambiti del testo originale inviato, riorganizzati in stile coordinato. Sono state eliminate duplicazioni, errori HTML e affermazioni normative/di accreditamento non verificate. Verificare qualifiche, organismo, tariffe e procedure con un professionista prima di pubblicare.
+
+
+AGGIORNAMENTO FOOTER SOCIETARIO (21/10/2026)
+Footer uniforme su 12 pagine: ragione sociale, sede legale, P.IVA, C.F./iscrizione Registro Imprese Roma, REA, capitale sociale.
+ATTENZIONE: verificare da visura aggiornata il capitale effettivamente versato (non dichiarato come interamente versato nel sito), eventuale socio unico, stato di liquidazione e direzione/coordinamento. Non sono stati inventati PEC o recapiti.

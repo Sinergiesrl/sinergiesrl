@@ -1,0 +1,14 @@
+/* Uniformità trasversale senza alterare le sezioni originali */
+.site-header{box-shadow:0 4px 18px #07162614}.nav-links a{transition:color .2s}.footer a:hover{text-decoration:underline}@media(max-width:1000px){.nav-links.open{max-height:calc(100dvh - 74px);overflow-y:auto}}
+
+/* Footer societario uniforme – 12 pagine */
+.corporate-footer{background:#071626;color:#d3dce4;padding:44px 0 24px;font-size:13px;line-height:1.75}
+.corporate-footer .container{width:min(1200px,calc(100% - 38px));margin-inline:auto}
+.corporate-footer p{margin:0 0 5px;color:inherit}
+.corporate-footer-name{font-weight:700;letter-spacing:.08em;color:#f1cf92!important;font-size:16px}
+.corporate-footer-top{display:flex;justify-content:space-between;align-items:start;gap:28px}
+.corporate-footer-links{display:flex;flex-wrap:wrap;gap:10px 24px;justify-content:flex-end}
+.corporate-footer a{color:#f1cf92;text-decoration:none}.corporate-footer a:hover{text-decoration:underline}
+.corporate-footer-data{display:flex;flex-wrap:wrap;gap:8px 25px;border-top:1px solid #ffffff24;border-bottom:1px solid #ffffff24;margin-top:27px;padding:17px 0}
+.corporate-footer-bottom{padding-top:18px;color:#b9c8d4;font-size:12px}
+@media(max-width:720px){.corporate-footer-top{flex-direction:column}.corporate-footer-links{justify-content:flex-start}.corporate-footer-data{display:grid;gap:6px}}
